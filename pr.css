@@ -1,0 +1,42 @@
+*{
+    font-family: 'Times New Roman', Times, serif;}
+
+#box{
+    background-color: rgb(164, 51, 230);
+    color: rgb(243, 218, 242);
+}
+h3{
+    color: rgb(169, 15, 169);
+    text-align: center;
+    text-transform:capitalize;
+}
+.heading {
+    color: rgb(169, 15, 169);
+    
+}
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    background-color: rgb(118, 70, 162);
+    color: wheat;
+}
+body{
+    background-color: rgb(243, 187, 241);
+}
+
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+/* h1,h2,h3{
+    color: blueviolet;
+} */
